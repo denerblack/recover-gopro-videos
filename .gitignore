@@ -1,0 +1,10 @@
+# card images and recovered media: never commit these
+*.img
+*.dd
+*.map
+*.MP4
+*.mp4
+*.LRV
+*.THM
+*.JPG
+__pycache__/
